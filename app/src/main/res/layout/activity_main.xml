@@ -307,7 +307,8 @@
             android:layout_marginHorizontal="20dp"
             android:text="Selanjutnya"
             android:textColor="@color/white"
-            android:textAllCaps="false" />
+            android:textAllCaps="false"
+            android:onClick="btngreen1"/>
 
     </LinearLayout>
 
